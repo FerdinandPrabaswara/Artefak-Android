@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Base.Theme.Thesis3" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Warna utama (toolbar, tombol utama, FAB) -->
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Warna sekunder (FAB, tombol aksen, dsb) -->
+        <item name="colorSecondary">@color/red</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Warna background & teks -->
+        <item name="android:colorBackground">@color/white</item>
+        <item name="android:textColor">@color/black</item>
+
+        <!-- Gaya untuk AlertDialog -->
+        <item name="alertDialogTheme">@style/AlertDialogTheme</item>
+    </style>
+
+    <!-- Gaya untuk AlertDialog -->
+    <style name="AlertDialogTheme" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="buttonTint">@color/red</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <!-- Tema akhir -->
+    <style name="Theme.Thesis3" parent="Base.Theme.Thesis3" />
+
+</resources>

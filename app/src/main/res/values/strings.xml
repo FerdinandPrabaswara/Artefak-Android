@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Thesis</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="judul"><b>ANALISIS TATA LETAK FLOATING ACTION BUTTON (FAB) PADA DESAIN APLIKASI
+        SELULER TERHADAP PRODUKTIVITAS PENGGUNA MENGIKUTI PRINSIP FITTS’ LAW</b>
+    </string>
+    <string name="read_this_instructions"><u>Read this instructions!</u></string>
+    <string name="instructions_main">
+        You will complete some tasks in the Android App. Some things to note:\n
+        • There are 36 tasks + 1 trial task\n
+        • Time estimate: 20–30 minutes\n
+        • Follow the instruction for each task\n
+        • Once completed, please fill out a questionnaire.
+    </string>
+</resources>
