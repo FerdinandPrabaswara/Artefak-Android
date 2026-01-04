@@ -1,5 +1,5 @@
 Artefak-Android is part of my undergraduate research project for obtaining a Bachelor’s degree.
-This study analyzes the effect of Floating Action Button (FAB) placement in mobile applications, Android.
+This study analyzes the effect of Floating Action Button (FAB) placement in mobile applications, Smartphone.
 
 The experiment evaluates three different FAB positions by measuring user productivity through
 Task Completion Time (TCT) and mistakes.
